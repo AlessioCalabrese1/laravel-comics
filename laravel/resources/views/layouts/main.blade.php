@@ -12,9 +12,9 @@
 <body>
     @include('includes/header')
 
-    <main>
-        @yield('showcase')
-    </main>
+    
+    @yield('showcase')
+    
 
     @include('includes/footer')
 </body>
